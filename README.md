@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+# 🎮 GameHub - Cyberpunk Gaming Showcase
 
-## Project info
+GameHub is a modern and visually stunning web-based gaming platform built using **React**, **TypeScript**, and the latest in frontend web technologies. Designed with a cyberpunk aesthetic, GameHub provides a perfect showcase for web-based games with smooth animations, dark themes, and a neon-accented user interface.
 
-**URL**: https://lovable.dev/projects/25bd0e92-9e5f-4b4c-964f-db666400ac1b
+## 🔗 Repository
 
-## How can I edit this code?
+> 🧠 GitHub: [https://github.com/dhairyaaprajapati/GameHub.git](https://github.com/dhairyaaprajapati/GameHub.git)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🌟 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/25bd0e92-9e5f-4b4c-964f-db666400ac1b) and start prompting.
+- 🎨 **Dark, Cyberpunk-Themed Design**
+  - Dark UI with gradients and glowing accents
+  - Neon color scheme: cyan, purple, and green
+- 🧩 **Hero Section**
+  - Highlighted featured games
+- 🗃️ **Game Library**
+  - Card-based layout
+  - Hover effects and animations
+- 📰 **Gaming News Section**
+  - Showcase news and updates
+- 🧭 **Easy Navigation**
+  - Clear site structure and user-friendly flow
+- 📱 **Fully Responsive**
+  - Optimized for mobile, tablet, and desktop
+- 🎞️ **Smooth Transitions**
+  - Engaging animations for a polished experience
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+| Technology     | Description                         |
+|----------------|-------------------------------------|
+| **React**      | UI library for building interfaces  |
+| **TypeScript** | Strongly-typed JavaScript superset  |
+| **HTML5/CSS3** | Markup and styling                  |
+| **Tailwind CSS** *(optional)* | Utility-first CSS framework |
+| **Framer Motion / GSAP** *(optional)* | Advanced animations |
+| **Vite / CRA** | Project bundler and dev server      |
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🎨 Design Language
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Visual Style**
+  - Steam-inspired layout
+  - Cyberpunk color palette
+- **Typography**
+  - Bold headings and readable body text
+- **Layout**
+  - Card-based game display
+  - Intuitive section hierarchy
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💻 Installation & Setup
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/dhairyaaprajapati/GameHub.git
+
+# Navigate into the directory
+cd GameHub
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/25bd0e92-9e5f-4b4c-964f-db666400ac1b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
